@@ -1,0 +1,3 @@
+package lr
+
+object GradientDescentLogisticRegressionSolver extends GradientDescentSolver[Boolean]

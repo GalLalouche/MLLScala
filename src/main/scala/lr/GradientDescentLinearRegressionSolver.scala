@@ -1,0 +1,3 @@
+package lr
+
+object GradientDescentLinearRegressionSolver extends GradientDescentSolver[Double]
